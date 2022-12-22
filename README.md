@@ -3,10 +3,10 @@
 React Native Noteapp Project
 
 <div align="center">
-  <img src="https://ibb.co/q7hvDgf" height="400">
-  <img src="https://ibb.co/d277mZ2" height="400">
-  <img src="https://ibb.co/0YJ9fLJ" height="400">
-  <img src="https://ibb.co/BCLWSLN" height="400">
+  <img src="https://i.ibb.co/BCLWSLN/noteapp-home.png" height="400">
+  <img src="https://i.ibb.co/0YJ9fLJ/noteapp-list.png" height="400">
+  <img src="https://i.ibb.co/d277mZ2/noteapp-create.png" height="400">
+  <img src="https://i.ibb.co/q7hvDgf/noteapp-edit.png" height="400">
 </div>
 
 ## Fitur ##
